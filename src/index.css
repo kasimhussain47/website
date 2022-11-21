@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: rgb(0, 0, 0); */
+  /* background-image: url(https://thumbs.dreamstime.com/b/clear-pattern-abstract-background-hexagon-black-blue-wallpaper-futuristic-153639625.jpg); */
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#css1 {
+  background-color: rgb(100, 145, 145);
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  
+}
+
+#kkhusain {
+  background-image:"https://media.istockphoto.com/photos/fog-in-black-smoke-and-mist-on-wooden-table-halloween-backdrop-picture-id1341515382";
+  
+}
+
+button {
+
+  padding: 5px 5px 5px 5px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: medium;
+  letter-spacing: 2px;
+  color: rgb(0, 0, 0);
+  /* background-color: rgb(190, 37, 31); */
+  /* border-radius: 15px; */
+  /* margin-left: 37px; */
+  border-color: black;
+}
+.button1 {
+
+  position:relative;
+  bottom: 5%;
+  justify-content: center;
+  display: flex;
+  margin: auto;
+ 
+}
+
+/* #button2 {
+          background-color: "gray",
+          /* border-color: "red",
+          borderRadius: "15px",
+          borderWidth: "4px",
+          justifyContent:"centre",
+          display:"flex", */
+        /* //   alignItems:"center",
+        //   textAlign:"center",
+        //   margin:"500px" */
+        /* } */ */
+
+  
+
+
+.button1:hover
+{
+  background-color:rgb(255, 35, 35);
+  
+}
+
+.todo2 {
+
+  background-color:#512a99;
+  margin-left: 35px;
+  border-radius: 100px;
+  
+}
+.todo2:hover
+{
+  background-color:rgb(39, 26, 26);
+}
+.kfc2 
+{
+  position: relative;
+              top: -12px;
+              left: 500px;
+              color: yellow;
+              background-color:black;
+              border-radius: 500px;
+              box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 2);
+              justify-content: center;
+              display: flex;
+              margin: auto;
+              margin-bottom:20px;
+}
+.kfc2:hover
+{
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+}
+.kfc3 
+{
+  position: relative;
+              top: -12px;
+              left: 100px;
+              color: yellow;
+              background-color:black;
+              border-radius: 500px;
+              box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 2);
+              justify-content: center;
+              display: flex;
+              margin: auto;
+              margin-bottom:20px;
+}
+.kfc3:hover
+{
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+}
+.cards {
+   
+  width: auto;
+  height: auto;
+
+}
+
+.card {
+
+  margin: 6%;
+  transition: cubic-bezier(0.175, 0.885, 0, 1);
+  background-color: rgb(152, 165, 179);
+  width:auto;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.1);
+  float: left;
+  border-color: brown;
+  border-width: 2px;
+}
+.card:hover {
+
+  box-shadow: 8px 8px 8px  rgba(0, 0, 0, 0.1);
+  transform: scale(1.05,1.05);
+}
+
+.card_img {
+
+  width: 100%;
+  height: 14pc;
+  border-radius: 10px;
+  
+}
+
+.kkf {
+
+  background-color: rgb(209, 207, 207);
+  border-color: brown;
+ 
+ 
+}
+
+#kkf2 {
+
+  
+  /* position: absolute;
+  bottom: 0%; */
+  
+ margin-top: 15px;
+ margin-bottom: 15px;
+ justify-content: center;
+}
+
+#imoji {
+
+  justify-content: center;
+  display: flex;
+}
+#countnum1 {
+
+  justify-content: center;
+  display: flex;
+}
